@@ -8,4 +8,6 @@
 __author__ = "Jasper Withofs"
 __email__ = "jasper.withofs@student.kdg.be"
 __version__ = "1.0.1"
-__status__ = "Development" 
+__status__ = "Development"
+
+##test
